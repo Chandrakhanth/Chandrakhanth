@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Chandrakhanth ... and I'm a Frontend developer, from India</h2>
-
+padding:0.5px
 ###
 
 <div align="center">
