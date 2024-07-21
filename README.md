@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandrakhanth26" target="blank"><img src="https://img.shields.io/twitter/follow/chandrakhanth26?logo=twitter&style=for-the-badge" alt="chandrakhanth26" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancing**
+- 🔭 I’m currently working on **SOFTWARE ENGINEER @ IIT MADRAS**
 
 - 👀I'm interested in **Technoligical Activities**
 
