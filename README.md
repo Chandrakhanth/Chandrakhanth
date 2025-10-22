@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChandraKhanth</h1>
-<h3 align="center">A passionate frontend developer from India.........</h3>
+<h3 align="center">A passionate Data Engineer from India.........</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrakhanth&label=Profile%20views&color=0e75b6&style=flat" alt="chandrakhanth" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly Read articles on [Finance](Finance)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **chandrakhanth07@gmail.com**
 
